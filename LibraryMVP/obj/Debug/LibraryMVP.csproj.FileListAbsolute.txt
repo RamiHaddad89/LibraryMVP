@@ -7,3 +7,6 @@ E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\Librar
 E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.csproj.CoreCompileInputs.cache
 E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.exe
 E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.pdb
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.Views.Forms.Frm_Main.resources
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\bin\Debug\Guna.UI2.dll
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.csproj.CopyComplete
