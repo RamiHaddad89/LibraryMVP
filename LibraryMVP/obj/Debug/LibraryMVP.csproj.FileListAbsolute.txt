@@ -1,0 +1,9 @@
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\bin\Debug\LibraryMVP.exe.config
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\bin\Debug\LibraryMVP.exe
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\bin\Debug\LibraryMVP.pdb
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.csproj.AssemblyReference.cache
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.Properties.Resources.resources
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.csproj.GenerateResource.cache
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.csproj.CoreCompileInputs.cache
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.exe
+E:\Programming Advices\Program\New folder\LibraryMVP\LibraryMVP\obj\Debug\LibraryMVP.pdb
